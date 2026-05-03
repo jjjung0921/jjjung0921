@@ -31,12 +31,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjjung0921&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=jjjung0921&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="170" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjung0921&hide_border=true&theme=default" height="170" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjung0921&layout=compact&hide_border=true&theme=default&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=jjjung0921&layout=compact&hide_border=true&theme=default&langs_count=8" height="170" alt="Top Languages"/>
 
 </div>
 
